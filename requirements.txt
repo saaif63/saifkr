@@ -1,0 +1,6 @@
+Amino.py
+googletrans==3.1.0a0
+samino
+rainbowtext
+pyfiglet
+colorama

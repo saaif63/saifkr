@@ -1,0 +1,1 @@
+worker: python mybotss2.py
